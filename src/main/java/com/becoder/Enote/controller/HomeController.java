@@ -1,4 +1,4 @@
-package com.becoder.Enote.controller;
+package com.becoder.enote.controller;
 
 import org.springframework.stereotype.Controller;
 
